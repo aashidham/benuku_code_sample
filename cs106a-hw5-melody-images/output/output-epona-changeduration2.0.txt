@@ -1,0 +1,15 @@
+Playing "Epona's Song", by Koji Kondo (13.2 sec)
+  - playing 0.6 D 5 NATURAL
+  - playing 0.6 B 4 NATURAL
+  - playing 2.0 A 4 NATURAL
+  - playing 0.4 R
+  - playing 0.6 D 5 NATURAL
+  - playing 0.6 B 4 NATURAL
+  - playing 2.0 A 4 NATURAL
+  - playing 0.4 R
+  - playing 0.6 D 5 NATURAL
+  - playing 0.6 B 4 NATURAL
+  - playing 1.2 A 4 NATURAL
+  - playing 1.2 B 4 NATURAL
+  - playing 2.4 A 4 NATURAL
+Playing complete.

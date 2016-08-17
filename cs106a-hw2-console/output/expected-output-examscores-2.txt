@@ -1,0 +1,9 @@
+CS 106A "Exam Master 4000"!
+Next exam score (or -42 to quit)? 76
+Next exam score (or -42 to quit)? 89
+Next exam score (or -42 to quit)? 83
+Next exam score (or -42 to quit)? -42
+Highest score = 89
+Lowest score = 76
+Average = 82.66666666666667
+0 student(s) failed the exam.

@@ -1,0 +1,34 @@
+Playing "Yellow Submarine (reversed)", by The Beatles (15.5 sec)
+  - playing 1.0 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 A 4 NATURAL
+  - playing 1.25 A 4 NATURAL
+  - playing 0.25 C 5 NATURAL
+  - playing 0.25 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 1.25 C 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 1.25 G 5 NATURAL
+  - playing 0.25 F 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 1.0 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 A 4 NATURAL
+  - playing 1.25 A 4 NATURAL
+  - playing 0.25 C 5 NATURAL
+  - playing 0.25 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 1.25 C 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 0.25 D 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+  - playing 1.25 G 5 NATURAL
+  - playing 0.25 F 5 NATURAL
+  - playing 0.25 E 5 NATURAL
+Playing complete.

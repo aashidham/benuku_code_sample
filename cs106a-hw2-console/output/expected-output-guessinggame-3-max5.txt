@@ -1,0 +1,18 @@
+CS 106A Guessing Game!
+
+Guess my number from 1-5.
+Your guess? 2
+It's higher.
+Your guess? 4
+It's lower.
+Your guess? 3
+You got it in 3 guesses!
+Play again? y
+
+Guess my number from 1-5.
+Your guess? 3
+It's lower.
+Your guess? 1
+You got it in 2 guesses!
+Play again? n
+Thanks for playing.

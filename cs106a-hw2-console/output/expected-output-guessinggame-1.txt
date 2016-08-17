@@ -1,0 +1,37 @@
+CS 106A Guessing Game!
+
+Guess my number from 1-100.
+Your guess? 50
+It's lower.
+Your guess? 25
+It's higher.
+Your guess? 35
+It's lower.
+Your guess? 30
+It's higher.
+Your guess? 31
+You got it in 5 guesses!
+Play again? y
+
+Guess my number from 1-100.
+Your guess? 64
+You got it on the first try!
+Play again? y
+
+Guess my number from 1-100.
+Your guess? 60
+It's lower.
+Your guess? 20
+It's higher.
+Your guess? 30
+It's higher.
+Your guess? 40
+It's higher.
+Your guess? 50
+It's lower.
+Your guess? 47
+It's higher.
+Your guess? 49
+You got it in 7 guesses!
+Play again? n
+Thanks for playing.

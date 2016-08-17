@@ -1,0 +1,27 @@
+Playing "Happy Birthday", by Patty Hill and Mildred J. Hill (13.0 sec)
+  - playing 0.25 D 3 NATURAL
+  - playing 0.25 D 3 NATURAL
+  - playing 0.5 E 3 NATURAL
+  - playing 0.5 D 3 NATURAL
+  - playing 0.5 G 3 NATURAL
+  - playing 1.0 F 3 SHARP
+  - playing 0.25 D 3 NATURAL
+  - playing 0.25 D 3 NATURAL
+  - playing 0.5 E 3 NATURAL
+  - playing 0.5 D 3 NATURAL
+  - playing 0.5 A 3 NATURAL
+  - playing 1.0 G 3 NATURAL
+  - playing 0.25 D 3 NATURAL
+  - playing 0.25 D 3 NATURAL
+  - playing 0.5 D 4 NATURAL
+  - playing 0.5 B 3 NATURAL
+  - playing 0.5 G 3 NATURAL
+  - playing 0.5 F 3 SHARP
+  - playing 1.0 E 3 NATURAL
+  - playing 0.25 C 4 NATURAL
+  - playing 0.25 C 4 NATURAL
+  - playing 0.5 B 3 NATURAL
+  - playing 0.5 G 3 NATURAL
+  - playing 0.5 A 3 NATURAL
+  - playing 1.5 G 3 NATURAL
+Playing complete.
